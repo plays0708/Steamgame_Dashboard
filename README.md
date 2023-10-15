@@ -22,8 +22,8 @@
 | :---: | :---: | :--- |
 | 김승언 | AWS 및 DBT 인프라 구축, DAG 작성(ELT), 시각화, 배포 | [@SikHyeya](https://github.com/SikHyeya) |
 | 김선호 | AWS 및 DBT 인프라 구축, DAG 작성(ELT), 시각화, 배포 | [@sunhokim1457](https://github.com/sunhokim1457) |
-| 김지석 | Steam API 데이터 수집, DAG 작성(ETL, ELT) 시각화, 배포 | [@plays0708](https://github.com/plays0708) |
-| 송지혜 | Steam API 데이터 수집, DAG 작성(ETL, ELT) 시각화, 배포 | [@ssongjj](https://github.com/ssongjj) |
+| 김지석 | Steam API 데이터 수집, DAG 작성(ETL, ELT), 시각화, 배포 | [@plays0708](https://github.com/plays0708) |
+| 송지혜 | Steam API 데이터 수집, DAG 작성(ETL, ELT), 시각화, 배포 | [@ssongjj](https://github.com/ssongjj) |
 <br>
 <br>
 
